@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **tyagisaransh90@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z_Gy3vAInmo71AmrGp1ll1vK2Yd2CKvm/view?usp=sharing](https://drive.google.com/file/d/1Z_Gy3vAInmo71AmrGp1ll1vK2Yd2CKvm/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1z99ysa_qHDZ9pLBDcrKR765enIO0LQwU/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
