@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saransh Tyagi</h1>
-<h3 align="center">MCA student proficient in Java 8, Spring, Hibernate, CSS, Bootstrap, and AngularJs. Experienced in Git, Maven, SQL, and MySQL. Projects: ChitChat, Levy Organizer, e-commerce site. Active on Github, Stack Overflow, Leetcode, and GFG. Learning Flutter and Dart. Seeking Java 8 dev opportunities. Connect on LinkedIn for details.</h3>
+<h3 align="center">MCA student skilled in Java 8, Spring, Hibernate, and web technologies. Experienced in Git, Maven, SQL, and MySQL. Developed projects like ChitChat and Levy Organizer. Active on Github and coding platforms. Currently learning Flutter and Dart. Open for Java 8 developer roles. Reach out on LinkedIn.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tsaransh&label=Profile%20views&color=0e75b6&style=flat" alt="tsaransh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tsaransh&label=Profile%20views&color=0e75b6&style=flat-square" alt="tsaransh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsaransh" alt="tsaransh" /></a> </p>
 
@@ -40,6 +40,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/tyagisaranv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tyagisaranv" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsaransh&show_icons=true&locale=en&layout=compact" alt="tsaransh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsaransh&show_icons=true&locale=en&layout=compact" alt="tsaransh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsaransh&" alt="tsaransh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsaransh&show_icons=true&locale=en" alt="tsaransh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsaransh&theme=dark" alt="tsaransh" /></p>
